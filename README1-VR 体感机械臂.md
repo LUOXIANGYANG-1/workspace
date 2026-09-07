@@ -1,4 +1,3 @@
-# workspace
 # VR 体感机械臂控制系统
 
 基于 **PICO VR + Unity + ESP32 + 多自由度机械臂** 实现的体感机械臂遥操作系统。
